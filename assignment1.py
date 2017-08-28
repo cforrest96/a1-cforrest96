@@ -80,7 +80,5 @@ def menu(song_list, menu_select_upper):
         print (song_list)
     return song_list
 
-    elif menu_select_upper in "C":
-        print()
 
 main()
